@@ -11,7 +11,7 @@
    From the list of Identity Providers (IdPs), choose your **home institution** (e.g., University of Colombo, SLIIT, etc.).
 
 4. **Enter your institutional credentials**
-   Use the **username and password** given by your institution’s IT department or LMS team.
+   Use the **username and password** given by your institution’s IT department.
 
 5. **Grant permission (if prompted)**
    You may be asked to authorize the platform to access your profile information. Click **“Accept” or “Continue”**.
