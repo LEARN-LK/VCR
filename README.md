@@ -26,5 +26,5 @@ While the platform can be used to teach at multiple LEARN member institutions, *
 The **number of accounts allocated to each institution** is determined by the platform’s capacity and is proportional to the institution’s contribution to LEARN.
 
 ---
-*  [Sign In to VCR](https://github.com/LEARN-LK/VCR/blob/main/signintoVCR.md)
+*  [Sign in to vCR via LEARN IdP](https://github.com/LEARN-LK/VCR/blob/main/signintoVCR.md)
 
