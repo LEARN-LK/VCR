@@ -6,17 +6,19 @@
 
 2. **Click "Sign In"**
    You will be redirected to the **LEARN Identity Federation login page**.
+   <img src="https://github.com/LEARN-LK/VCR/blob/main/img/signin-01.png" style="width:400;">
 
-3. **Select your institution**
+4. **Select your institution**
    From the list of Identity Providers (IdPs), choose your **home institution** (e.g., University of Colombo, SLIIT, etc.).
+    <img src="https://github.com/LEARN-LK/VCR/blob/main/img/signin-02.png" style="width:400;">
 
-4. **Enter your institutional credentials**
+6. **Enter your institutional credentials**
    Use the **username and password** given by your institution’s IT department.
 
-5. **Grant permission (if prompted)**
+7. **Grant permission (if prompted)**
    You may be asked to authorize the platform to access your profile information. Click **“Accept” or “Continue”**.
 
-6. **Access the platform**
+8. **Access the platform**
    Once authenticated, you'll be logged in to vCR and can **create, join, or manage your sessions**.
 
 ---
