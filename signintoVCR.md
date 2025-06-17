@@ -14,7 +14,7 @@
 
 6. **Enter your institutional credentials**
    Use the **username and password** given by your institution’s IT department.
-   <img src="https://github.com/LEARN-LK/VCR/blob/main/img/signin-03.png" alt="image" style="max-width: 100%;width: 500px;">
+   <img src="https://github.com/LEARN-LK/VCR/blob/main/img/signin-03.png" alt="image" style="max-width: 100%;width: 400px;">
 
 8. **Grant permission (if prompted)**
    You may be asked to authorize the platform to access your profile information. Click **“Accept” or “Continue”**.
