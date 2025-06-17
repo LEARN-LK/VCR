@@ -4,7 +4,7 @@
 1. **Go to the vCR platform**
    Visit: [https://vcr.learn.ac.lk](https://vcr.learn.ac.lk)
 
-2. **Click "Sign In" **
+2. **Click "Sign In"**
    You will be redirected to the **LEARN Identity Federation login page**.
 
 3. **Select your institution**
