@@ -5,7 +5,7 @@
 ###  **Step 1: Access Your Dashboard**
 
 * After login, you’ll be taken to your **vCR dashboard**.
-* This shows a list of your existing rooms and options to create new ones.
+* This shows a list of your existing rooms[2] and options to create new ones[1].
 
   <img src="https://github.com/LEARN-LK/VCR/blob/main/img/createroom-01.png" alt="image" style="max-width: 100%;width: 500px;">
 
@@ -24,27 +24,26 @@
 * **Room Name**: e.g., “Math 101 – Week 2”
 
 
- <img src="https://github.com/LEARN-LK/VCR/blob/main/img/createroom-02.png" alt="image" style="max-width: 100%;width: 500px;">
+ <img src="https://github.com/LEARN-LK/VCR/blob/main/img/createroom-3.png?raw=true" alt="image" style="max-width: 100%;width: 500px;">
 
-* Click **“Create Room”**.
+* Click **“Create Room” [3]**.
 
 ---
 
 ###  **Step 4: Manage Room Settings**
 
 * After creating, your room will now appear on the **dashboard**.
-* Click on the **room name** to open the **Room Settings** panel.
+* Click on the **room name** to open the **Room Settings [4]** panel.
 
- <img src="https://github.com/LEARN-LK/VCR/blob/main/img/createroom-03.png" alt="image" style="max-width: 100%;width: 500px;">
 
 Here you can configure:
 
  **Access Control**
 
-* **Generate Access Code for Viewers** – Share with students.
-* **Generate Access Code for Moderators** – For teachers/co-hosts.
+* **Generate Access Code for Viewers [5]** – Share with students.
+* **Generate Access Code for Moderators [6]** – For teachers/co-hosts.
 
- **User Settings**
+ **User Settings [7]**
 
 *  Allow room to be recorded
 *  Require users to be signed in before joining
@@ -61,7 +60,7 @@ Here you can configure:
 * Click **“Join Room”** to start the session.
 * Copy the **room link** and share it with participants via email, LMS, or chat.
 
- *Screenshot Suggestion: Room page with “Join Room” button and shareable link.*
+<img src="https://github.com/LEARN-LK/VCR/blob/main/img/createroom-05.png?raw=true" alt="image" style="max-width: 100%;width: 500px;">
 
 ---
 
