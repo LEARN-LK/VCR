@@ -7,7 +7,7 @@
 * After login, you’ll be taken to your **vCR dashboard**.
 * This shows a list of your existing rooms and options to create new ones.
 
- *Screenshot User dashboard after login.*
+  <img src="https://github.com/LEARN-LK/VCR/blob/main/img/createroom-01.png" alt="image" style="max-width: 100%;width: 500px;">
 
 ---
 
@@ -15,7 +15,7 @@
 
 * Click on the **“Create Room”** or **“+ New Room”** button.
 
- *Screenshot  Button for creating a new room.*
+<img src="https://github.com/LEARN-LK/VCR/blob/main/img/createroom-02.png" alt="image" style="max-width: 100%;width: 500px;">
 
 ---
 
@@ -24,9 +24,9 @@
 * **Room Name**: e.g., “Math 101 – Week 2”
 
 
- *Screenshot  Room creation form with fields.*
+ <img src="https://github.com/LEARN-LK/VCR/blob/main/img/createroom-02.png" alt="image" style="max-width: 100%;width: 500px;">
 
-* Click **“Create”** or **“Save”**.
+* Click **“Create Room”**.
 
 ---
 
@@ -35,7 +35,7 @@
 * After creating, your room will now appear on the **dashboard**.
 * Click on the **room name** to open the **Room Settings** panel.
 
- *Screenshot Dashboard with created room.*
+ <img src="https://github.com/LEARN-LK/VCR/blob/main/img/createroom-03.png" alt="image" style="max-width: 100%;width: 500px;">
 
 Here you can configure:
 
@@ -53,8 +53,7 @@ Here you can configure:
 *  All users join as moderators
 *  Mute users when they join
 
- *Screenshot Suggestion: Full Room Settings panel.*
-
+<img src="https://github.com/LEARN-LK/VCR/blob/main/img/createroom-04.png" alt="image" style="max-width: 100%;width: 500px;">
 ---
 
 ###  **Step 5: Start or Share the Meeting**
