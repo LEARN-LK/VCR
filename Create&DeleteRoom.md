@@ -1,54 +1,76 @@
-
-##  **Step-by-Step Guide: Creating a vCR Room 
----
-
-### **1. Access Your Dashboard**
-
-
-After logging in, you’ll see the **dashboard** with your rooms and options.
+##  **How to Create a vCR Room via LEARN IdP**
 
 ---
 
-### **2. Click on “Create Room”**
+###  **Step 1: Access Your Dashboard**
 
-Click the button to open the room creation form.
+* After login, you’ll be taken to your **vCR dashboard**.
+* This shows a list of your existing rooms and options to create new ones.
 
----
-
-### **3. Fill in Room Details**
-
-* **Room Name** (e.g., “Math 101 – Week 2”)
-* **Description** (optional)
-* Choose to enable **recording** (if needed)
-* Set **Access Type** (public/private)
+ *Screenshot User dashboard after login.*
 
 ---
 
-### **4. Set Permissions (Optional)**
+###  **Step 2: Create a New Room**
 
+* Click on the **“Create Room”** or **“+ New Room”** button.
 
-* Choose who can **moderate**, **present**, or **join**
-* Restrict access if necessary
-
----
-
-### **5. Click “Create” or “Save”**
-
-
-Your room will now appear in your dashboard.
+ *Screenshot  Button for creating a new room.*
 
 ---
 
-### **6. Start the Session**
+###  **Step 3: Fill in Room Details**
+
+* **Room Name**: e.g., “Math 101 – Week 2”
 
 
-Click your room and then click **“Join Room”** to begin the session.
+ *Screenshot  Room creation form with fields.*
+
+* Click **“Create”** or **“Save”**.
+
+---
+
+###  **Step 4: Manage Room Settings**
+
+* After creating, your room will now appear on the **dashboard**.
+* Click on the **room name** to open the **Room Settings** panel.
+
+ *Screenshot Dashboard with created room.*
+
+Here you can configure:
+
+ **Access Control**
+
+* **Generate Access Code for Viewers** – Share with students.
+* **Generate Access Code for Moderators** – For teachers/co-hosts.
+
+ **User Settings**
+
+*  Allow room to be recorded
+*  Require users to be signed in before joining
+*  Require moderator approval before joining
+*  Allow any user to start the meeting
+*  All users join as moderators
+*  Mute users when they join
+
+ *Screenshot Suggestion: Full Room Settings panel.*
 
 ---
 
-### 🔗 **Room Link**
+###  **Step 5: Start or Share the Meeting**
 
-After creating the room, copy and share the **room link** with your participants (e.g., via email, LMS, WhatsApp).
+* Click **“Join Room”** to start the session.
+* Copy the **room link** and share it with participants via email, LMS, or chat.
+
+ *Screenshot Suggestion: Room page with “Join Room” button and shareable link.*
 
 ---
+
+###  **Optional: Reuse or Edit Room**
+
+* You can reuse the same room for recurring sessions.
+* To edit details later, go back to the **dashboard** and click on the room.
+
+---
+
 
