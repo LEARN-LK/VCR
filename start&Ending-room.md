@@ -64,7 +64,5 @@
 
 ---
 
- **Tip:** Use “Leave meeting” if you're switching moderators or stepping out temporarily. Use “End meeting” only when the session is truly over.
-
-Let me know if you’d like this added to a user guide or training slide.
+ **Note:** Use “Leave meeting” if you're switching moderators or stepping out temporarily. Use “End meeting” only when the session is truly over.
 
