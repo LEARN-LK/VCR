@@ -10,7 +10,7 @@
 3. **Click the “Start” Button**
    Click the **“Start [1]”** button inside the Room box to begin the session.
 
-   <img src="https://github.com/LEARN-LK/VCR/blob/main/img/startmeeting-1.png" alt="image" style="max-width: 100%;width: 500px;">
+   <img src="https://github.com/LEARN-LK/VCR/blob/main/img/startmeeting-1.png" alt="image" style="max-width: 100%;width: 600px;">
 
 
 4. **Configure Audio Devices**
@@ -25,7 +25,7 @@
 5. **Enter the Room Interface**
    Once the audio is confirmed, you'll enter the live Room environment.
 
-<img src="https://github.com/LEARN-LK/VCR/blob/main/img/startmeeting-1.png" alt="image" style="max-width: 100%;width: 500px;">
+<img src="https://github.com/LEARN-LK/VCR/blob/main/img/startmeeting-4.png" alt="image" style="max-width: 100%;width: 500px;">
 
 6. **Use Audio and Video Controls**
 
