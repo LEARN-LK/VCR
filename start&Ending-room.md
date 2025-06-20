@@ -42,6 +42,44 @@
 ---
 
 
+## **How to Change the Layout of the Room Screen**
+
+1. **Enter the Room**
+   Start or join the Room where you want to adjust the layout.
+
+2. **Open the Actions Menu**
+
+   * Click the **blue (+) button [1]** located at the **bottom left** of the Room interface.
+   * This opens the **Actions men [2]u**.
+
+      <img src="https://github.com/LEARN-LK/VCR/blob/main/img/layout-01.png" alt="image" style="max-width: 100%;width: 400px;">
+
+
+3. **Select Layout Settings**
+
+   * In the Actions menu, click on **“Layout Settings Modal”** (or similar option labeled “Layouts”).
+
+4. **Choose Your Preferred Layout**
+   You’ll see **four layout options**:
+
+   *  **Custom** [1] – Set your own arrangement manually.
+   *  **Smart Layout [2]** – Automatically adjusts based on what's being shared.
+   *  **Focus on Presentation [3]** – Maximizes the presentation area.
+   *  **Focus on Video [4]** – Highlights participant video feeds.
+
+<img src="https://github.com/LEARN-LK/VCR/blob/main/img/layout-02.png" alt="image" style="max-width: 100%;width: 400px;">
+
+
+5. **Apply the Layout**
+   Click on your preferred layout to apply [5]it immediately.
+
+---
+ **Note:** You can change layouts at any time during a session to suit the activity — teaching, presenting, or discussion.
+
+
+
+
+
 ##  **How to End or Leave a Room/Session**
 
 1. **Look for the Options Menu**
