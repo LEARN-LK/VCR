@@ -63,12 +63,38 @@ Here you can configure:
 <img src="https://github.com/LEARN-LK/VCR/blob/main/img/createroom-05.png?raw=true" alt="image" style="max-width: 100%;width: 500px;">
 
 ---
-
 ###  **Optional: Reuse or Edit Room**
 
 * You can reuse the same room for recurring sessions.
 * To edit details later, go back to the **dashboard** and click on the room.
 
 ---
+
+## How to Delete a vCR Room
+---
+
+###  **Step 1: Open the Room and Go to Settings**
+
+* On your **dashboard**, click on the **room name** to open it.
+* Then go to the **Settings** tab (usually on the side or top menu).
+* Scroll down to the **bottom of the User Settings section**.
+* You will see the **“Delete Room”** button.
+
+ *Screenshot Suggestion: Settings tab with the “Delete Room” button visible at the bottom.*
+
+---
+
+###  **Step 2: Confirm Room Deletion**
+
+* Click the **“Delete Room”** button.
+* A popup message will appear:
+
+  > **"Are you sure you want to delete this room? This action cannot be undone."**
+* Click **“Delete”** to confirm.
+
+ *Screenshot Suggestion: Confirmation popup with “Delete” and “Cancel” buttons.*
+
+---
+
 
 
