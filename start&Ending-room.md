@@ -1,5 +1,5 @@
 
-###  **How to Start a Room/Session**
+##  **How to Start a Room/Session**
 
 1. **Log in to the Platform**
    Access the LEARN vCR platform and log in with your credentials.
@@ -40,4 +40,31 @@
    * You can upload presentations, chat, create breakout rooms, take notes, and more.
 
 ---
+
+
+##  **How to End or Leave a Room/Session**
+
+1. **Look for the Options Menu**
+   In the top-right corner of the session window, click the **three vertical dots [1]** (⋮) or **options menu**.
+
+2. **Choose Your Action:**
+
+   *  **To End the Meeting for Everyone:**
+     Click **“End meeting” [2]**.
+     This will **disconnect all participants** and close the session.
+   *  **To Leave the Meeting (but keep it running):[3]**
+     Click **“Leave meeting”**.
+     This will **remove only you** from the session, while others remain connected.
+
+<img src="https://github.com/LEARN-LK/VCR/blob/main/img/endmeeting-01.png" alt="image" style="max-width: 100%;width: 700px;">
+
+
+3. **Confirm the Action (if prompted)**
+   Some versions may ask for confirmation. Click “Yes” or “Confirm” to proceed.
+
+---
+
+ **Tip:** Use “Leave meeting” if you're switching moderators or stepping out temporarily. Use “End meeting” only when the session is truly over.
+
+Let me know if you’d like this added to a user guide or training slide.
 
