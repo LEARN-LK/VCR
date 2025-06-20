@@ -67,7 +67,7 @@ The **number of accounts allocated to each institution** is determined by the pl
 
 ---
 
-### 🗳 **Engagement Tools**
+###  **Engagement Tools**
 
 * **Polling**
 * **Breakout Room**
