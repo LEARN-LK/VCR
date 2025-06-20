@@ -76,12 +76,17 @@ Here you can configure:
 ###  **Step 1: Open the Room and Go to Settings**
 
 * On your **dashboard**, click on the **room name** to open it.
+
+  <img src="https://github.com/LEARN-LK/VCR/blob/main/img/del-01.png" alt="image" style="max-width: 100%;width: 500px;">
+
 * Then go to the **Settings** tab (usually on the side or top menu).
 * Scroll down to the **bottom of the User Settings section**.
+
+<img src="https://github.com/LEARN-LK/VCR/blob/main/img/del-02.png" alt="image" style="max-width: 100%;width: 500px;">
+  
 * You will see the **“Delete Room”** button.
 
- *Screenshot Suggestion: Settings tab with the “Delete Room” button visible at the bottom.*
-
+ 
 ---
 
 ###  **Step 2: Confirm Room Deletion**
@@ -92,7 +97,7 @@ Here you can configure:
   > **"Are you sure you want to delete this room? This action cannot be undone."**
 * Click **“Delete”** to confirm.
 
- *Screenshot Suggestion: Confirmation popup with “Delete” and “Cancel” buttons.*
+ <img src="https://github.com/LEARN-LK/VCR/blob/main/img/del-03.png" alt="image" style="max-width: 100%;width: 500px;">
 
 ---
 
