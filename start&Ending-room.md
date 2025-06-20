@@ -25,7 +25,7 @@
 5. **Enter the Room Interface**
    Once the audio is confirmed, you'll enter the live Room environment.
 
-<img src="https://github.com/LEARN-LK/VCR/blob/main/img/startmeeting-4.png" alt="image" style="max-width: 100%;width: 500px;">
+<img src="https://github.com/LEARN-LK/VCR/blob/main/img/startmeeting-4.png" alt="image" style="max-width: 100%;width: 700px;">
 
 6. **Use Audio and Video Controls**
 
