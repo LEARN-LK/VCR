@@ -26,6 +26,68 @@ While the platform can be used to teach at multiple LEARN member institutions, *
 The **number of accounts allocated to each institution** is determined by the platform’s capacity and is proportional to the institution’s contribution to LEARN.
 
 ---
-*  [Sign in to vCR via LEARN IdP](https://github.com/LEARN-LK/VCR/blob/main/signintoVCR.md)
-*  [Create and Delete Meeting Room]()
+
+###  **Room & Session Management**
+
+* **[Sign in to vCR via LEARN IdP]**(https://github.com/LEARN-LK/VCR/blob/main/signintoVCR.md)
+* **[Creating a Room, Deleting a Room]()**
+* **Starting a Room/Session**
+* **Ending/Leaving a Room**
+* **Waiting Room (Guest Policy)**
+* **Converting a Room to a Webinar**
+* **Locking Viewer Features (Webinar style class Room)**
+* **Layouts**
+
+---
+
+###  **Instructor/Moderator Features**
+
+* **Overview for Instructors (moderator/presenter)**
+* **Co-Host**
+* **Visual Assessment**
+* **Smart Slides/Smart Polling**
+
+---
+
+###  **Presentation & Content Sharing**
+
+* **Uploading Presentation**
+* **Sharing Screen**
+* **Sharing External Video**
+* **Whiteboard**
+* **Shared Notes**
+* **Annotations**
+* **Fit to Page**
+
+---
+
+###  **Audio & Captions**
+
+* **Closed Captions**
+* **Auto Captions (Auto audio transcription)**
+
+---
+
+### 🗳 **Engagement Tools**
+
+* **Polling**
+* **Breakout Room**
+
+---
+
+###  **Reports & Analytics**
+
+* **Report - Participants List**
+* **Learning Analytics Dashboard**
+
+---
+
+###  **Integrations & Streaming**
+
+* **Live Streaming on YouTube or Facebook**
+* **Moodle Integration**
+
+---
+
+
 
