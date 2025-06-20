@@ -29,10 +29,9 @@ The **number of accounts allocated to each institution** is determined by the pl
 
 ###  **Room & Session Management**
 
-* **[Sign in to vCR via LEARN IdP]**(https://github.com/LEARN-LK/VCR/blob/main/signintoVCR.md)
+* **[Sign in to vCR via LEARN IdP](https://github.com/LEARN-LK/VCR/blob/main/signintoVCR.md)**
 * **[Creating a Room, Deleting a Room]()**
-* **Starting a Room/Session**
-* **Ending/Leaving a Room**
+* **[Starting a Room/Session Ending/Leaving a Room]()**
 * **Waiting Room (Guest Policy)**
 * **Converting a Room to a Webinar**
 * **Locking Viewer Features (Webinar style class Room)**
