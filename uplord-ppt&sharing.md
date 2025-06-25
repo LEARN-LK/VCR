@@ -68,3 +68,61 @@
 *  **Always convert PowerPoint slides to PDF** before uploading.
 
 
+
+Here is a clear **step-by-step guide for Sharing Your Screen** in the LEARN vCR (BigBlueButton) platform:
+
+---
+
+## 🖥️ **How to Share Your Screen in vCR**
+
+> ⚠️ **Important Note:**
+> Screen sharing is **not recommended** for presentations, as it **reduces the Room size** and may cause performance issues. Always prefer using uploaded PDF slides.
+> Use screen sharing **only when absolutely necessary**.
+
+---
+
+# **Steps to Share Your Screen**
+
+1. **Start the Room**
+
+   * Log in to the platform and click **Start** on your Room to enter the session.
+
+2. **Use Google Chrome Browser**
+
+   * Ensure you're using **Google Chrome**, as it supports the screen sharing feature reliably.
+
+3. **Click the Screen Sharing Icon**
+
+   * At the **bottom center** of the Room interface, find and click the **computer screen icon** (next to the camera icon).
+
+4. **Select What to Share**
+   A new pop-up window will appear with three tabs:
+
+   * **Entire Screen**
+   * **Window**
+   * **Chrome Tab** (if applicable)
+
+5. **Choose Your Option**
+
+   * Click the preview of the screen or window you want to share.
+   * Click the **“Share”** button.
+
+6. **Screen Now Visible to All**
+
+   * Participants will now see what you're sharing.
+   * A banner or icon may indicate that screen sharing is active.
+
+7. **To Stop Sharing**
+
+   * Click the screen sharing icon again or stop it via your browser's share indicator.
+
+---
+
+###  **Before You Begin: Enable Screen Sharing**
+
+Make sure:
+
+* You have granted browser permission to **share your screen**.
+* Pop-ups are not blocked.
+* Your system allows screen recording (on macOS, check System Preferences > Security & Privacy > Screen Recording).
+
