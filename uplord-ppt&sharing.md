@@ -1,4 +1,4 @@
-# 📄 **How to Upload a Presentation in vCR**
+#  **How to Upload a Presentation in vCR**
 
 ### 🔁 You Can Upload in Two Ways:
 
