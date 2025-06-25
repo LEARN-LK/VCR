@@ -12,13 +12,18 @@
 1. **Go to Your Dashboard**
    Locate the Room you want to use.
 
+   <img src="https://github.com/LEARN-LK/VCR/blob/main/img/add-ppt-01.png" alt="image" style="max-width: 100%;width: 500px;">
+
 2. **Click on the Room Name (Not the Start Button)**
    This opens the **Room Details Page**.
 
-3. **Click the “Presentation” Tab**
+3. **Click the “Presentation [2]” Tab**
+
+   <img src="https://github.com/LEARN-LK/VCR/blob/main/img/add-ppt-02.png" alt="image" style="max-width: 100%;width: 500px;">
+
 
    * You’ll see an option to **upload files in PDF format**.
-   * Click **Choose File**, then **Upload**.
+   * Click **Choose File**, then **Upload [2]**.
 
 4. **Upload Notes:**
 
