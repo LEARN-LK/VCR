@@ -47,8 +47,7 @@ The **number of accounts allocated to each institution** is determined by the pl
 
 ###  **Presentation & Content Sharing**
 
-* **Uploading Presentation**
-* **Sharing Screen**
+* **[Uploading Presentation/Sharing Screen](https://github.com/LEARN-LK/VCR/blob/main/uplord-ppt%26sharing.md)**
 * **Sharing External Video**
 * **Whiteboard**
 * **Shared Notes**
