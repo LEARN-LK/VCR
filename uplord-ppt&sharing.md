@@ -38,18 +38,22 @@
 1. **Start Your Room**
    Click the **Start** button from the dashboard to enter the session.
 
-2. **Click the Blue “+” Button**
+2. **Click the Blue “+” Button [1]**
    Located at the **bottom center** of the Room interface.
+ 
+  <img src="https://github.com/LEARN-LK/VCR/blob/main/img/2add-ppt-1.png" alt="image" style="max-width: 100%;width: 500px;">
+ 
 
-3. **Select “Upload/Manage Presentation”**
+3. **Select “Upload/Manage Presentation [2]”**
 
 4. **Choose Your PDF File**
 
-   * Click **“Browse” or drag and drop** your file.
+   * Click **“Browse” or drag and drop [3]** your file.
    * Upload multiple files if needed.
 
-5. **Click “Confirm” to Upload**
+5. **Click “Confirm” to Upload[4]**
    Once uploaded, your slides will appear in the center.
+   <img src="https://github.com/LEARN-LK/VCR/blob/main/img/2add-ppt-2.png" alt="image" style="max-width: 100%;width: 500px;">
 
 6. **Switch Between Presentations**
 
