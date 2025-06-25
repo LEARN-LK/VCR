@@ -73,9 +73,9 @@ Here is a clear **step-by-step guide for Sharing Your Screen** in the LEARN vCR 
 
 ---
 
-## 🖥️ **How to Share Your Screen in vCR**
+##  **How to Share Your Screen in vCR**
 
-> ⚠️ **Important Note:**
+>  **Important Note:**
 > Screen sharing is **not recommended** for presentations, as it **reduces the Room size** and may cause performance issues. Always prefer using uploaded PDF slides.
 > Use screen sharing **only when absolutely necessary**.
 
@@ -93,28 +93,36 @@ Here is a clear **step-by-step guide for Sharing Your Screen** in the LEARN vCR 
 
 3. **Click the Screen Sharing Icon**
 
-   * At the **bottom center** of the Room interface, find and click the **computer screen icon** (next to the camera icon).
+   * At the **bottom center** of the Room interface, find and click the **computer screen icon [1]** (next to the camera icon).
+
+      <img src="https://github.com/LEARN-LK/VCR/blob/main/img/sharescreen-01.png" alt="image" style="max-width: 100%;width: 500px;">
+
+     
 
 4. **Select What to Share**
    A new pop-up window will appear with three tabs:
 
-   * **Entire Screen**
-   * **Window**
-   * **Chrome Tab** (if applicable)
+   * **Entire Screen  [3]**
+   * **Window [2]**
+   * **Chrome Tab [1]** (if applicable)
+
+     <img src="https://github.com/LEARN-LK/VCR/blob/main/img/sharescreen-02.png" alt="image" style="max-width: 100%;width: 500px;">
+
 
 5. **Choose Your Option**
 
    * Click the preview of the screen or window you want to share.
-   * Click the **“Share”** button.
+   * Click the **“Share [4]”** button.
 
 6. **Screen Now Visible to All**
 
    * Participants will now see what you're sharing.
    * A banner or icon may indicate that screen sharing is active.
 
-7. **To Stop Sharing**
+7. **To Stop Sharing [5]**
 
    * Click the screen sharing icon again or stop it via your browser's share indicator.
+      <img src="https://github.com/LEARN-LK/VCR/blob/main/img/sharescreen-03.png" alt="image" style="max-width: 100%;width: 500px;">
 
 ---
 
