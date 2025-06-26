@@ -30,6 +30,8 @@ This feature ensures that your uploaded presentation slides are scaled properly 
 * At the **bottom center of the presentation viewer**, find the **zoom control bar**.
 * Click the **“Fit to page”** button (usually represented by a page icon with arrows or a zoom reset icon).
 
+  <img src="https://github.com/LEARN-LK/VCR/blob/main/img/fittopage-01.png?raw=true" alt="image" style="max-width: 100%;width: 400px;">
+
 
 #### 5. **Slide Adjusts to Screen**
 
