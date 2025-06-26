@@ -34,7 +34,6 @@ The **number of accounts allocated to each institution** is determined by the pl
 * **[Starting a Room , Layouts Settings  and Session Ending/Leaving a Room](https://github.com/LEARN-LK/VCR/blob/main/start&Ending-room.md)**
 * **[Waiting Room (Guest Policy](https://github.com/LEARN-LK/VCR/blob/main/waitingRoom.md))**
 * **[Converting a Room to a Webinar & Locking Viewer Features (Webinar style class Room)](https://github.com/LEARN-LK/VCR/blob/main/Webinar-mood.md)**
----
 
 ###  **Instructor/Moderator Features**
 
@@ -43,7 +42,6 @@ The **number of accounts allocated to each institution** is determined by the pl
 * **Visual Assessment**
 * **Smart Slides/Smart Polling**
 
----
 
 ###  **Presentation & Content Sharing**
 
@@ -53,35 +51,30 @@ The **number of accounts allocated to each institution** is determined by the pl
 * **Annotations**
 * **Fit to Page**
 
----
 
 ###  **Audio & Captions**
 
 * **Closed Captions**
 * **Auto Captions (Auto audio transcription)**
 
----
 
 ###  **Engagement Tools**
 
 * **Polling**
 * **Breakout Room**
 
----
 
 ###  **Reports & Analytics**
 
 * **Report - Participants List**
 * **Learning Analytics Dashboard**
 
----
 
 ###  **Integrations & Streaming**
 
 * **Live Streaming on YouTube or Facebook**
 * **Moodle Integration**
 
----
 
 
 
