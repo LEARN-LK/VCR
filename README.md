@@ -49,7 +49,7 @@ The **number of accounts allocated to each institution** is determined by the pl
 
 * **[Uploading Presentation/Sharing Screen](https://github.com/LEARN-LK/VCR/blob/main/uplord-ppt%26sharing.md)**
 * **[Sharing External Video / Whiteboard](https://github.com/LEARN-LK/VCR/blob/main/Sharing-External-Video%26whiteboard.md)**
-* **Shared Notes**
+* **[Shared Notes](https://github.com/LEARN-LK/VCR/blob/main/sharenote.md)**
 * **Annotations**
 * **Fit to Page**
 
