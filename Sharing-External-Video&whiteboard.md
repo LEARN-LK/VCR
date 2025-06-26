@@ -93,7 +93,7 @@ Use the **slide navigator (left arrow/right arrow)** to switch between them.
   * Sticky Note
   * Delete
   
-<img src="https://github.com/LEARN-LK/VCR/blob/main/img/whiteboard-03.png?raw=true" alt="image" style="max-width: 100%;width: 400px;">
+<img src="https://github.com/LEARN-LK/VCR/blob/main/img/whiteboard-03.png?raw=true" alt="image" style="max-width: 100%;width: 300px;">
 
 ---
 
