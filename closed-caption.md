@@ -12,16 +12,29 @@
 ###  **Step 2: Promote a Caption Writer (if needed)**
 
 * Go to the **Users panel** (left side).
-* Click on the name of the user who will write captions.
-* Select **“Promote to Moderator”** so they have permission to write captions.
+* Click on the name of the user [1] who will write captions.
+* Select **“Promote to Moderator [2] ”** so they have permission to write captions.
+
+  <img src="https://github.com/LEARN-LK/VCR/blob/main/img/caption-01.png" alt="image" style="max-width: 100%;width: 400px;">
 
 ---
 
 ###  **Step 3: Enable Caption Writing**
 
-* Click the **gear icon (⚙️)** next to the **USERS** title.
-* Select **“Write Closed Captions”** from the dropdown list.
+* Click the **gear icon (⚙️) [3]** next to the **USERS** title.
+* Select **“Write Closed Captions [4]”** from the dropdown list.
+* Select the language from drop down list
 * A caption input box will appear for the captioning moderator.
+
+<div style="display: inline-block;">
+<img src="https://github.com/LEARN-LK/VCR/blob/main/img/caption-02.png" alt="image" style="max-width: 100%;width: 400px;">
+<img src="https://github.com/LEARN-LK/VCR/blob/main/img/caption-03.png" alt="image" style="max-width: 100%;width: 300px;">
+</div>
+<div style="display: inline-block;">
+<img src="https://github.com/LEARN-LK/VCR/blob/main/img/caption-04.png" alt="image" style="max-width: 80%;width: 300px;">
+<img src="https://github.com/LEARN-LK/VCR/blob/main/img/caption-05.png" alt="image" style="max-width: 100%;width: 300px;">
+<img src="https://github.com/LEARN-LK/VCR/blob/main/img/caption-06.png" alt="image" style="max-width: 100%;width: 300px;">
+</div>
 
 ---
 
@@ -31,6 +44,7 @@
 
   * Click the **“CC” button** located at the **lower center** of the screen.
   * This will open the **live captions viewer**.
+<img src="https://github.com/LEARN-LK/VCR/blob/main/img/caption-07.png" alt="image" style="max-width: 100%;width: 500px;">
 
 ---
 
