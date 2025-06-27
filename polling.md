@@ -15,23 +15,29 @@ Polling is a powerful feature to engage participants, collect feedback, run quic
 
 ###  **2. Open Poll Options**
 
-* At the **bottom center** of the Room interface, click the **blue “+” button**.
+* At the **bottom center** of the Room interface, click the **blue “+” button [1]**.
+
+ <img src="https://github.com/LEARN-LK/VCR/blob/main/img/polling-01.png" alt="image" style="max-width: 100%;width: 400px;">
 
 
-###  **3. Select “Start a Poll”**
+###  **3. Select “Start a Poll [2]”**
 
 * From the popup menu, click **“Start a poll.”**
 * A poll setup window will appear.
 
+    <img src="https://github.com/LEARN-LK/VCR/blob/main/img/polling-02.png" alt="image" style="max-width: 100%;width: 400px;">
 
-###  **4. Enter Your Question**
+
+###  **4. Enter Your Question [3]**
 
 * Type the question you want to ask participants.
+
+   <img src="https://github.com/LEARN-LK/VCR/blob/main/img/polling-03.png" alt="image" style="max-width: 100%;width: 400px;">
 
 📝 **Example Question:**
 **“Which online tool do you use most often for learning?”**
 
-###  **5. Choose a Response Type**
+###  **5. Choose a Response Type [4]**
 
 You can select from predefined or custom poll types:
 
@@ -41,7 +47,7 @@ You can select from predefined or custom poll types:
 * **Yes/No/Abstention**
 * **Custom** (you type your own options)
 
-For the example above, choose **A-B-C-D** and enter:
+For the example above, choose **A-B-C-D [5]** and enter:
 
 * A. Moodle
 * B. Google Classroom
@@ -53,6 +59,9 @@ For the example above, choose **A-B-C-D** and enter:
 
 * Click **Start Poll** to begin collecting responses.
 * The poll appears on participants’ screens.
+
+  <img src="https://github.com/LEARN-LK/VCR/blob/main/img/polling-04.png" alt="image" style="max-width: 100%;width: 400px;">
+
 
 
 ###  **7. Monitor and Share Results**
