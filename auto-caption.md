@@ -14,12 +14,14 @@
 * Click the **gear icon (⚙️)** next to the **USERS** title (left panel).
 * Select **“Write Closed Captions”** from the menu.
 * A **caption sub-window** will open.
+
 <img src="https://github.com/LEARN-LK/VCR/blob/main/img/caption-02.png" alt="image" style="max-width: 100%;width: 400px;">
 
 
 ###  **Step 3: Enable Auto Captions (Speech-to-Text)**
 
 * In the **caption sub-window**, click the **blue “Start Dictation” button** at the top-left corner.
+
   <img src="https://github.com/LEARN-LK/VCR/blob/main/img/auto-caption.png" alt="image" style="max-width: 100%;width: 400px;">
 
 
