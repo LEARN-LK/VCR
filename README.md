@@ -65,7 +65,7 @@ The **number of accounts allocated to each institution** is determined by the pl
 ###  **Integrations & Streaming**
 
 * **Live Streaming on YouTube or Facebook**
-* **Moodle Integration**
+* **[Moodle Integration](https://github.com/LEARN-LK/lms/blob/master/Moodle%20Virtual%20Class%20Room%20(Webinar)%20.md)**
 
 ###  **Instructor/Moderator Features**
 
