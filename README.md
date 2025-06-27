@@ -35,13 +35,6 @@ The **number of accounts allocated to each institution** is determined by the pl
 * **[Waiting Room (Guest Policy](https://github.com/LEARN-LK/VCR/blob/main/waitingRoom.md))**
 * **[Converting a Room to a Webinar & Locking Viewer Features (Webinar style class Room)](https://github.com/LEARN-LK/VCR/blob/main/Webinar-mood.md)**
 
-###  **Instructor/Moderator Features**
-
-* **Overview for Instructors (moderator/presenter)**
-* **Co-Host**
-* **Visual Assessment**
-* **Smart Slides/Smart Polling**
-
 
 ###  **Presentation & Content Sharing**
 
@@ -74,6 +67,11 @@ The **number of accounts allocated to each institution** is determined by the pl
 * **Live Streaming on YouTube or Facebook**
 * **Moodle Integration**
 
+###  **Instructor/Moderator Features**
 
+* **Overview for Instructors (moderator/presenter)**
+* **Co-Host**
+* **Visual Assessment**
+* **Smart Slides/Smart Polling**
 
 
