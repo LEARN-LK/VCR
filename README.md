@@ -53,7 +53,7 @@ The **number of accounts allocated to each institution** is determined by the pl
 ###  **Engagement Tools**
 
 * **[Polling](https://github.com/LEARN-LK/VCR/blob/main/polling.md)**
-* **Breakout Room**
+* **[Breakout Room](https://github.com/LEARN-LK/VCR/blob/main/breakout-room.md)**
 
 
 ###  **Reports & Analytics**
