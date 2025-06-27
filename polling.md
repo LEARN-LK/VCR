@@ -37,12 +37,11 @@ You can select from predefined or custom poll types:
 
 * **Yes / No**
 * **True / False**
-* **A–B**
-* **A–C**
-* **A–D**
+* **A–B-C-D**
+* **Yes/No/Abstention**
 * **Custom** (you type your own options)
 
-For the example above, choose **Custom** and enter:
+For the example above, choose **A-B-C-D** and enter:
 
 * A. Moodle
 * B. Google Classroom
