@@ -53,7 +53,7 @@ The **number of accounts allocated to each institution** is determined by the pl
 
 ###  **Audio & Captions**
 
-* **Closed Captions**
+* **[Closed Captions](https://github.com/LEARN-LK/VCR/blob/main/closed-caption.md)**
 * **Auto Captions (Auto audio transcription)**
 
 
