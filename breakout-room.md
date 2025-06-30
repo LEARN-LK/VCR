@@ -76,7 +76,7 @@ As a moderator:
 ###  **7. End Breakout Rooms**
 
 * Rooms will automatically close when the timer expires.
-* Or you can click  icon , Next select **“End  Breakout Rooms” [2]** to bring everyone back early.
+* Or you can click  **vertical dots (⋮) icon** , Next select **“End  Breakout Rooms” [2]** to bring everyone back early.
 
   <img src="https://github.com/LEARN-LK/VCR/blob/main/img/breakout-05.png" alt="image" style="max-width: 100%;width: 500px;">
 
