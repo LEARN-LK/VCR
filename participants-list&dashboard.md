@@ -31,6 +31,7 @@
 * A `.txt` file will automatically download to your **Downloads folder**.
 * This file includes the **names of all participants** currently in the session.
 
+---
 
 ##  Open the Learning Analytics Dashboard (Detailed List)
 
