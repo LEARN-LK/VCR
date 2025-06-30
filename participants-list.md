@@ -32,7 +32,7 @@
 * This file includes the **names of all participants** currently in the session.
 
 
-##  ** Open the Learning Analytics Dashboard (Detailed List)**
+##  Open the Learning Analytics Dashboard (Detailed List)
 
 * Again, click the **gear icon (⚙️)  [1]** next to “Users”.
 * Select **“Learning Analytics Dashboard [2] ”**.
