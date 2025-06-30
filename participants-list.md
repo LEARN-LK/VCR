@@ -32,7 +32,7 @@
 * This file includes the **names of all participants** currently in the session.
 
 
-###  **4. Open the Learning Analytics Dashboard (Detailed List)**
+##  ** Open the Learning Analytics Dashboard (Detailed List)**
 
 * Again, click the **gear icon (⚙️)  [1]** next to “Users”.
 * Select **“Learning Analytics Dashboard [2] ”**.
@@ -41,7 +41,7 @@
    <img src="https://github.com/LEARN-LK/VCR/blob/main/img/participantlist-03.png" alt="image" style="max-width: 100%;width: 500px;">
 
 
-###  **5. View and Download Participant Details**
+###  **1. View and Download Participant Details**
 
 * In the dashboard, you will see:
  <img src="https://github.com/LEARN-LK/VCR/blob/main/img/participantlist-04.png" alt="image" style="max-width: 100%;width: 500px;">
