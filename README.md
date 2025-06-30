@@ -58,7 +58,7 @@ The **number of accounts allocated to each institution** is determined by the pl
 
 ###  **Reports & Analytics**
 
-* **Report - Participants List**
+* **[Report - Participants List](https://github.com/LEARN-LK/VCR/blob/main/participants-list.md)**
 * **Learning Analytics Dashboard**
 
 
