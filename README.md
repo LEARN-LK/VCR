@@ -68,9 +68,9 @@ The **number of accounts allocated to each institution** is determined by the pl
 
 ###  **Instructor/Moderator Features**
 
-* **Overview for Instructors (moderator/presenter)**
+* **[Overview for Instructors (moderator/presenter)](Moderator Tasks – Overview)**
 * **[Co-Host](https://github.com/LEARN-LK/VCR/blob/main/Co-Host.md)**
 * **[Visual Assessment](https://github.com/LEARN-LK/VCR/blob/main/visual-assessment.md)**
-* **Smart Slides/Smart Polling**
+
 
 
