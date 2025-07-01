@@ -15,15 +15,21 @@ A **Co-Host** can help you manage the session by performing moderator tasks such
 ###  **2. Click on the Room Name**
 
 * Do **not** click the **Start** button.
-* Click on the **Room title/rectangle** to open the **Room Details Page**.
+* Click on the **Room title/rectangle [1]** to open the **Room Details Page**.
+
+  <img src="https://github.com/LEARN-LK/VCR/blob/main/img/co-host-01.png" alt="image" style="max-width: 100%;width: 500px;">
 
 
-###  **3. Open the “Access” Tab**
+
+###  **3. Open the “Access [2]” Tab**
 
 * At the top of the Room Details page, click on the **Access** tab.
 
+  <img src="https://github.com/LEARN-LK/VCR/blob/main/img/co-host-02.png" alt="image" style="max-width: 100%;width: 500px;">
 
-###  **4. Click “+ Share Access”**
+
+
+###  **4. Click “+ Share Access [3]”**
 
 * This will open a search field.
 
@@ -33,6 +39,9 @@ A **Co-Host** can help you manage the session by performing moderator tasks such
 * Start typing the **name or email** of the user you want to add.
 * Select the user from the suggestions (they **must be registered** in the LEARN vCR system).
 * Click **Add** to confirm.
+
+  <img src="https://github.com/LEARN-LK/VCR/blob/main/img/co-host-03.png" alt="image" style="max-width: 100%;width: 500px;">
+
 
 
 ###  **6. Co-Host Added**
