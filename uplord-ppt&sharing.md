@@ -2,8 +2,8 @@
 
 ### 🔁 You Can Upload in Two Ways:
 
-01 **Before starting the Room**
-02 **During a live session**
+01. **Before starting the Room**
+02. **During a live session**
 
 ---
 
