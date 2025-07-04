@@ -79,7 +79,7 @@ Use the **slide navigator (left arrow/right arrow) [2]** to switch between them.
 <img src="https://github.com/LEARN-LK/VCR/blob/main/img/writeboard-01%20.png" alt="image" style="max-width: 100%;width: 400px;">
 ---
 
-#### **4. Annotate on the Slide**
+### **4. Annotate on the Slide**
 
 * Use the **annotation toolbar** (bottom or right side of the presentation) to:
 
