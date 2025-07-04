@@ -6,11 +6,6 @@ With vCR, students and teachers can connect live, share content, and learn toget
 
 ---
 
-Let me know if you want this formatted specifically for the `README.md`.
-
-
-
-
 ### What you can do:
 
 * Create your own virtual room
