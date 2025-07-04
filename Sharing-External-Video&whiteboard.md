@@ -83,13 +83,13 @@ Use the **slide navigator (left arrow/right arrow) [2]** to switch between them.
 
 * Use the **annotation toolbar** (bottom or right side of the presentation) to:
 
-  * Select [3] - Click to select or move existing annotations.
-  * Pan [4] - Move around the slide without affecting annotations.
-  * Draw (pen tool) [5] - Freehand drawing on the slide using your mouse or stylus.
+  * Select ⇨ [3] - Click to select or move existing annotations.
+  * Pan ✋ [4] - Move around the slide without affecting annotations.
+  * Draw (pen tool) pen 🖊 [5] - Freehand drawing on the slide using your mouse or stylus.
   * Eraser [6 - Erase specific parts of your annotations.
-  * Use shapes (circle, square, line) [7] - Draw basic shapes like circles, squares, and straight lines.
-  * Arrow [8] -Insert an arrow to point out or highlight key areas.
-  * Write text [9] - Type short text or labels directly onto the slide.
+  * Use shapes □ (circle, square, line) [7] - Draw basic shapes like circles, squares, and straight lines.
+  * Arrow ➚ [8] -Insert an arrow to point out or highlight key areas.
+  * Write text  [9] - Type short text or labels directly onto the slide.
   * Sticky Note [10] - Add comments or reminders as sticky notes.
   * Delete [11] - Remove all annotations from the slide.
 
