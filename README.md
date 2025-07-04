@@ -1,8 +1,15 @@
 # LEARN virtual Class Room (vCR) Platform
 
-vCR is an online teaching platform for universities and higher education in Sri Lanka. It’s built using the free and open-source BigBlueButton system and runs on powerful servers hosted by LEARN.
+**vCR** is an online teaching platform for universities and higher education institutions in Sri Lanka. It is built using the free and open-source **BigBlueButton** system and runs on powerful servers hosted by **LEARN**. vCR is ideal for **webinars**, as well as **regular virtual meetings and discussions**.
 
 With vCR, students and teachers can connect live, share content, and learn together in real time.
+
+---
+
+Let me know if you want this formatted specifically for the `README.md`.
+
+
+
 
 ### What you can do:
 
