@@ -100,7 +100,7 @@ Use the **slide navigator (left arrow/right arrow) [2]** to switch between them.
 
 #### **5. Enable Multi-User Whiteboard (for Student Interaction)**
 
-* Click the **“multi-user whiteboard” icon  [12]** (a small person with a pen)
+* Click the **“multi-user whiteboard” icon  [12]** 
   – This is found on the **presentation control bar** just below the slide.
 * This allows **all participants** to draw or annotate on the slide in real-time.
 
