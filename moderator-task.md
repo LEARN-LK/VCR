@@ -8,7 +8,7 @@ Moderators are responsible for **managing, facilitating, and guiding sessions** 
 ###  **Room Management**
 
 1. **[Start](https://github.com/LEARN-LK/VCR/blob/main/start&Ending-room.md#how-to-start-a-roomsession) / [End a Room and leave a room](https://github.com/LEARN-LK/VCR/blob/main/start&Ending-room.md#how-to-end-or-leave-a-roomsession)**
-2. **Invite Co-Hosts**
+2. **[Invite Co-Hosts](https://github.com/LEARN-LK/VCR/blob/main/Co-Host.md)**
 3. **[Enable / Disable Waiting Room (Guest Policy)](https://github.com/LEARN-LK/VCR/blob/main/waitingRoom.md)**
 4. **Promote Participants to Moderator**
 5. **[Assign Co-Hosts (from Access tab)](https://github.com/LEARN-LK/VCR/blob/main/Co-Host.md)**
