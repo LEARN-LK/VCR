@@ -27,34 +27,34 @@ Moderators are responsible for **managing, facilitating, and guiding sessions** 
 
 ###  **Participant Control**
 
-10. **Mute / Unmute Participants**
-11. **[Lock Viewer Features (e.g., private chat, mic, webcam, screen sharing)](https://github.com/LEARN-LK/VCR/blob/main/Webinar-mood.md#how-to-lock-viewer-features-webinar-style-room)**
-12. **[Use Visual Assessment tools (with Multi-user whiteboard + viewer lock)](https://github.com/LEARN-LK/VCR/blob/main/visual-assessment.md)**
-13. **[Shared Notes and Export Shared](https://github.com/LEARN-LK/VCR/blob/main/sharenote.md#how-to-use-shared-notes-in-vcr)**
+<!--10. **Mute / Unmute Participants**-->
+10. **[Lock Viewer Features (e.g., private chat, mic, webcam, screen sharing)](https://github.com/LEARN-LK/VCR/blob/main/Webinar-mood.md#how-to-lock-viewer-features-webinar-style-room)**
+11. **[Use Visual Assessment tools (with Multi-user whiteboard + viewer lock)](https://github.com/LEARN-LK/VCR/blob/main/visual-assessment.md)**
+12. **[Shared Notes and Export Shared](https://github.com/LEARN-LK/VCR/blob/main/sharenote.md#how-to-use-shared-notes-in-vcr)**
 
 ---
 
 ###  **Engagement Tools**
 
-14. **[Start and Manage Polls](https://github.com/LEARN-LK/VCR/blob/main/polling.md)**
-15. **[Create and Manage Breakout Rooms](https://github.com/LEARN-LK/VCR/blob/main/breakout-room.md)**
-16. **[Launch and Manage Closed Captions](https://github.com/LEARN-LK/VCR/blob/main/closed-caption.md)**
-17. **[Use Auto Captions (Speech-to-Text)](https://github.com/LEARN-LK/VCR/blob/main/auto-caption.md)**
+13. **[Start and Manage Polls](https://github.com/LEARN-LK/VCR/blob/main/polling.md)**
+14. **[Create and Manage Breakout Rooms](https://github.com/LEARN-LK/VCR/blob/main/breakout-room.md)**
+15. **[Launch and Manage Closed Captions](https://github.com/LEARN-LK/VCR/blob/main/closed-caption.md)**
+16. **[Use Auto Captions (Speech-to-Text)](https://github.com/LEARN-LK/VCR/blob/main/auto-caption.md)**
 
 
 ---
 
 ###  **Monitoring & Reporting**
 
-18. **[Access Learning Analytics Dashboard](https://github.com/LEARN-LK/VCR/blob/main/participants-list&dashboard.md#open-the-learning-analytics-dashboard-detailed-list)**
-19. **[View and Download Participants List and Monitor Attendance and Engagement](https://github.com/LEARN-LK/VCR/blob/main/participants-list&dashboard.md#how-to-save-the-participants-list-in-vcr)**
+17. **[Access Learning Analytics Dashboard](https://github.com/LEARN-LK/VCR/blob/main/participants-list&dashboard.md#open-the-learning-analytics-dashboard-detailed-list)**
+18. **[View and Download Participants List and Monitor Attendance and Engagement](https://github.com/LEARN-LK/VCR/blob/main/participants-list&dashboard.md#how-to-save-the-participants-list-in-vcr)**
 
 
 ---
 
 ###  **Other Features**
 
-20. **[Fit to Page (for presentation viewing)](https://github.com/LEARN-LK/VCR/blob/main/fittopage.md)**
-21. **[Live Stream Session (if enabled)](https://vcr.learn.ac.lk/userguide/streaming.html)**
-22. **[Integrate with Moodle (course-linked sessions)](https://github.com/LEARN-LK/lms/blob/master/Moodle%20Virtual%20Class%20Room%20(Webinar)%20.md)**
+19. **[Fit to Page (for presentation viewing)](https://github.com/LEARN-LK/VCR/blob/main/fittopage.md)**
+20. **[Live Stream Session (if enabled)](https://vcr.learn.ac.lk/userguide/streaming.html)**
+21. **[Integrate with Moodle (course-linked sessions)](https://github.com/LEARN-LK/lms/blob/master/Moodle%20Virtual%20Class%20Room%20(Webinar)%20.md)**
 
