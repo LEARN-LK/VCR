@@ -17,7 +17,7 @@ Moderators are responsible for **managing, facilitating, and guiding sessions** 
 
 ###  **Content Sharing**
 
-6. **[Upload / Manage Presentation](https://github.com/LEARN-LK/VCR/blob/main/uplord-ppt%26sharing.md)s**
+6. **[Upload / Manage Presentation](https://github.com/LEARN-LK/VCR/blob/main/uplord-ppt%26sharing.md)**
 7. **[Use and Enable Whiteboard (including Multi-user mode)](https://github.com/LEARN-LK/VCR/blob/main/Sharing-External-Video%26whiteboard.md#how-to-use-the-whiteboard-in-vcr)**
 8. **[Share External Videos (e.g., YouTube)](https://github.com/LEARN-LK/VCR/blob/main/Sharing-External-Video%26whiteboard.md#how-to-share-an-external-video-eg-youtube-mp4-in-vcr)**
 9. **[Share Screen (full screen or window)](https://github.com/LEARN-LK/VCR/blob/main/uplord-ppt%26sharing.md#how-to-share-your-screen-in-vcr)**
