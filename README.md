@@ -34,7 +34,7 @@ The **number of accounts allocated to each institution** is determined by the pl
 * **[Sign in to vCR via LEARN IdP](https://github.com/LEARN-LK/VCR/blob/main/signintoVCR.md)**
 * **[Creating a Room, Deleting a Room](https://github.com/LEARN-LK/VCR/blob/main/Create%26DeleteRoom.md)**
 * **[Starting a Room , Layouts Settings  and Session Ending/Leaving a Room](https://github.com/LEARN-LK/VCR/blob/main/start&Ending-room.md)**
-* **[Waiting Room (Guest Policy](https://github.com/LEARN-LK/VCR/blob/main/waitingRoom.md))**
+* **[Waiting Room (Guest Policy](https://github.com/LEARN-LK/VCR/blob/main/waitingRoom.md)**
 * **[Converting a Room to a Webinar & Locking Viewer Features (Webinar style class Room)](https://github.com/LEARN-LK/VCR/blob/main/Webinar-mood.md)**
 
 
